@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 16 19:12:38 2018
 
-@author: Saksham
+@author: Srishti
 """
 
 %pylab inline --no-import-all
